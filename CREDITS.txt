@@ -1,65 +1,32 @@
-Minecraft Forge: Credits/Thank You
+# Credits / 制作人员
 
-Forge is a set of tools and modifications to the Minecraft base game code to assist 
-mod developers in creating new and exciting content. It has been in development for 
-several years now, but I would like to take this time thank a few people who have 
-helped it along it's way.
+## Project
 
-First, the people who originally created the Forge projects way back in Minecraft 
-alpha. Eloraam of RedPower, and SpaceToad of Buildcraft, without their acceptiance 
-of me taking over the project, who knows what Minecraft modding would be today.
+**Last Song of Elysian / 乐土终曲**
 
-Secondly, someone who has worked with me, and developed some of the core features
-that allow modding to be as functional, and as simple as it is, cpw. For developing
-FML, which stabelized the client and server modding ecosystem. As well as the base
-loading system that allows us to modify Minecraft's code as elegently as possible.
+- Project Lead & Development / 主创与开发：OvO
+- Special Thanks / 特别鸣谢：
+  - 丞区：幽兰陌羽
+  - 御膳房总区：牢格
+  - 真·区史律者：跃云
+  - 高级建模区：Elysia
 
-Mezz, who has stepped up as the issue and pull request manager. Helping to keep me
-sane as well as guiding the community into creating better additions to Forge.
+感谢所有参与测试、提供建议、反馈问题并帮助完善本模组的玩家。
 
-Searge, Bspks, Fesh0r, ProfMobious, and all the rest over on the MCP team {of which 
-I am a part}. For creating some of the core tools needed to make Minecraft modding 
-both possible, and as stable as can be.
-  On that note, here is some specific information of the MCP data we use:
-    * Minecraft Coder Pack (MCP) *
-      Forge Mod Loader and Minecraft Forge have permission to distribute and automatically 
-      download components of MCP and distribute MCP data files. This permission is not 
-      transitive and others wishing to redistribute the Minecraft Forge source independently
-      should seek permission of MCP or remove the MCP data files and request their users 
-      to download MCP separately.
-      
-And lastly, the countless community members who have spent time submitting bug reports, 
-pull requests, and just helping out the community in general. Thank you.
+## Acknowledgements
 
---LexManos
+This is an unofficial fan-made Minecraft mod inspired by **Honkai Impact 3rd**.
 
-=========================================================================
+《崩坏3》相关角色、名称、音乐、美术设计及世界观归 **miHoYo / HoYoverse** 与相应权利人所有。
 
-This is Forge Mod Loader.
+Minecraft is owned by **Mojang Studios / Microsoft**.
 
-You can find the source code at all times at https://github.com/MinecraftForge/MinecraftForge/tree/1.12.x/src/main/java/net/minecraftforge/fml
+本项目使用或借助以下工具与项目制作：
 
-This minecraft mod is a clean open source implementation of a mod loader for minecraft servers
-and minecraft clients.
+- Minecraft Forge
+- Curios API
+- Blockbench
 
-The code is authored by cpw.
+本模组与 miHoYo、HoYoverse、Mojang Studios 及 Microsoft 没有官方关联，也未获得其官方认可。
 
-It began by partially implementing an API defined by the client side ModLoader, authored by Risugami.
-http://www.minecraftforum.net/topic/75440-
-This support has been dropped as of Minecraft release 1.7, as Risugami no longer maintains ModLoader.
-
-It also contains suggestions and hints and generous helpings of code from LexManos, author of MinecraftForge.
-http://www.minecraftforge.net/
-
-Additionally, it contains an implementation of topological sort based on that 
-published at http://keithschwarz.com/interesting/code/?dir=topological-sort
-
-It also contains code from the Maven project for performing versioned dependency
-resolution. http://maven.apache.org/
-
-It also contains a partial repackaging of the javaxdelta library from http://sourceforge.net/projects/javaxdelta/
-with credit to it's authors.
-
-Forge Mod Loader downloads components from the Minecraft Coder Pack
-(http://mcp.ocean-labs.de/index.php/Main_Page) with kind permission from the MCP team.
-
+第三方作品的所有权归原作者及相应权利人所有。本项目自行创作的代码和原创素材归其各自作者所有。
