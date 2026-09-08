@@ -1,8 +1,8 @@
 # Credits / 制作人员
 
-## Project
+## Last Song of Elysian / 乐土终曲
 
-**Last Song of Elysian / 乐土终曲**
+### Development Team / 制作团队
 
 - Project Lead & Development / 主创与开发：OvO
 - Special Thanks / 特别鸣谢：
@@ -13,20 +13,36 @@
 
 感谢所有参与测试、提供建议、反馈问题并帮助完善本模组的玩家。
 
-## Acknowledgements
+Thank you to everyone who tested the mod, offered suggestions, reported issues, and helped improve the project.
 
-This is an unofficial fan-made Minecraft mod inspired by **Honkai Impact 3rd**.
+## Acknowledgements / 致谢
 
-《崩坏3》相关角色、名称、音乐、美术设计及世界观归 **miHoYo / HoYoverse** 与相应权利人所有。
+《乐土终曲》是一款以《崩坏3》为灵感制作的非官方 Minecraft 同人模组。
 
-Minecraft is owned by **Mojang Studios / Microsoft**.
+Last Song of Elysian is an unofficial Minecraft fan mod inspired by Honkai Impact 3rd.
 
-本项目使用或借助以下工具与项目制作：
+《崩坏3》相关角色、名称、音乐、美术设计及世界观归 miHoYo、HoYoverse 与相应权利人所有。
+
+Characters, names, music, visual designs, and world-building elements related to Honkai Impact 3rd belong to miHoYo, HoYoverse, and their respective rights holders.
+
+Minecraft 及其相关内容归 Mojang Studios 和 Microsoft 所有。
+
+Minecraft and its related content belong to Mojang Studios and Microsoft.
+
+本项目使用或借助以下工具及项目制作：
+
+This project was created with the help of the following tools and projects:
 
 - Minecraft Forge
 - Curios API
 - Blockbench
 
-本模组与 miHoYo、HoYoverse、Mojang Studios 及 Microsoft 没有官方关联，也未获得其官方认可。
+## Disclaimer / 免责声明
 
-第三方作品的所有权归原作者及相应权利人所有。本项目自行创作的代码和原创素材归其各自作者所有。
+本模组与 miHoYo、HoYoverse、Mojang Studios 或 Microsoft 没有官方关联，也未获得上述公司的官方认可。
+
+This mod is not affiliated with or endorsed by miHoYo, HoYoverse, Mojang Studios, or Microsoft.
+
+所有第三方作品的所有权归原作者及相应权利人所有。本项目自行创作的代码与原创素材归其各自作者所有。
+
+All third-party works remain the property of their original creators and respective rights holders. Code and original assets created specifically for this project belong to their respective contributors.
