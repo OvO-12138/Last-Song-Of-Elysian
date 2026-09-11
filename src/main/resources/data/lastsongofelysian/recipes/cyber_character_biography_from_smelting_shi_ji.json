@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "lastsongofelysian:shi_ji"
+  },
+  "result": "lastsongofelysian:cyber_character_biography"
+}

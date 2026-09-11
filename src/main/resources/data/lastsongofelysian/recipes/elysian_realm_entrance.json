@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "SES",
+    "CNC",
+    "SES"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:echo_shard"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "lastsongofelysian:elysian_realm_entrance",
+    "count": 1
+  },
+  "show_notification": true
+}

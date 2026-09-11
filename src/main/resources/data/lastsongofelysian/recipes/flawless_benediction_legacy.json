@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "ACA",
+    "PBN",
+    "AOA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "P": {
+      "item": "minecraft:poppy"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "N": {
+      "item": "minecraft:peony"
+    },
+    "O": {
+      "item": "lastsongofelysian:core_of_origin"
+    }
+  },
+  "result": {
+    "item": "lastsongofelysian:flawless_benediction_legacy"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "lastsongofelysian:soul_steel_nugget"
+    }
+  },
+  "result": {
+    "item": "lastsongofelysian:soul_steel_ingot"
+  }
+}

@@ -74,6 +74,9 @@
   "item.lastsongofelysian.cyber_character_biography": "Cyber Character Biography",
   "item.lastsongofelysian.ivtv_book": "ivTV",
   "item.lastsongofelysian.shi_ji": "Records of the Grand Historian",
+  "item.lastsongofelysian.soul_steel_ingot": "Soulsteel Ingot",
+  "item.lastsongofelysian.soul_steel_nugget": "Soulsteel Nugget",
+  "block.lastsongofelysian.soul_steel_block": "Block of Soulsteel",
   "item.lastsongofelysian.core_of_reason": "Core of Reason",
   "item.lastsongofelysian.core_of_void": "Core of Void",
   "item.lastsongofelysian.core_of_thunder": "Core of Thunder",
@@ -108,5 +111,6 @@
   "item.lastsongofelysian.yellow_purple_little_axolotl_baby_spawn_egg": "Yellow-Purple Baby Axolotl Spawn Egg",
   "block.lastsongofelysian.yellow_purple_little_bed": "yellow and purple little bed",
   "item.lastsongofelysian.yellow_purple_dye": "Yellow and Purple Dye",
-  "block.lastsongofelysian.yellow_purple_wool": "Yellow and Purple Wool"
+  "block.lastsongofelysian.yellow_purple_wool": "Yellow and Purple Wool",
+  "block.lastsongofelysian.elysian_realm_entrance": "Elysian Realm Entrance"
 }

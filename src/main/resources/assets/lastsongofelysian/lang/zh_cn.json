@@ -75,6 +75,9 @@
   "item.lastsongofelysian.cyber_character_biography": "赛博人物传",
   "item.lastsongofelysian.ivtv_book": "ivTV",
   "item.lastsongofelysian.shi_ji": "岁月史书",
+  "item.lastsongofelysian.soul_steel_ingot": "魂钢",
+  "item.lastsongofelysian.soul_steel_nugget": "魂钢粒",
+  "block.lastsongofelysian.soul_steel_block": "魂钢块",
   "item.lastsongofelysian.core_of_reason": "理之核心",
   "item.lastsongofelysian.core_of_void": "空之核心",
   "item.lastsongofelysian.core_of_thunder": "雷之核心",
@@ -127,5 +130,6 @@
   "item.lastsongofelysian.yellow_purple_little_axolotl_baby_spawn_egg": "黄紫幼年小美西螈刷怪蛋",
   "block.lastsongofelysian.yellow_purple_little_bed": "黄紫小床",
   "item.lastsongofelysian.yellow_purple_dye": "黄紫染料",
-  "block.lastsongofelysian.yellow_purple_wool": "黄紫羊毛"
+  "block.lastsongofelysian.yellow_purple_wool": "黄紫羊毛",
+  "block.lastsongofelysian.elysian_realm_entrance": "往世乐土入口"
 }
